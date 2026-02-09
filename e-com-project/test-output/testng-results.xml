@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-09T21:57:38 IST" name="Default suite" finished-at="2026-02-09T21:58:25 IST" duration-ms="46649">
+    <groups>
+    </groups>
+    <test started-at="2026-02-09T21:57:38 IST" name="Default test" finished-at="2026-02-09T21:58:25 IST" duration-ms="46649">
+      <class name="demoWebShopEndToEnd.DemoWebShopEndToEnd">
+        <test-method signature="main()[pri:0, instance:demoWebShopEndToEnd.DemoWebShopEndToEnd@3a93b025]" started-at="2026-02-09T21:57:38 IST" name="main" finished-at="2026-02-09T21:58:25 IST" duration-ms="46624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- demoWebShopEndToEnd.DemoWebShopEndToEnd -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
